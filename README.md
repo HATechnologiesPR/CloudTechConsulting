@@ -25,14 +25,15 @@ Una tarjeta de presentación digital moderna y responsiva que permite a los prof
 ### 👤 Información Personal
 
 - **Nombre completo**: Título principal de la tarjeta
-- **Título Profesional**: Ciudad y país/estado
+- **Slogan o descripción breve**: Resumen de servicios o especialización
 
 ### 📞 Botones de Contacto
 
-- **Teléfono de oficina**: Botón que abre un popup mostrando el número de oficina y la extensión
-- **Celular**: Enlace directo para llamar
+- **Botones social media**: Enlaces a Facebook, Instagram, LinkedIn, Twitter, TikTok, YouTube
+- **Servicios**: Lista de servicios ofrecidos
+- **Llamar**: Enlace directo para llamar
+- **WhatsApp**: Enlace para iniciar chat en WhatsApp
 - **Email**: Enlace para enviar correos electrónicos
-- **Sitio web**: Acceso directo al sitio web corporativo
 - **Compartir**: Botón para compartir la tarjeta digital en redes o por mensaje
 - **Agregar Contacto**: Función para descargar información de contacto (vCard)
 

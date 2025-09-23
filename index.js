@@ -19,7 +19,7 @@ function compartirEnlace() {
 
 /* Función para mostrar los servicios */
 function mostrarServicios() {
-  alert("Servicios disponibles:\n\n• Desarrollo web\n• Móvil\n• ChatBots\n• Inteligencia Artificial\n• Automatización de Procesos\n• Digitalización\n• Otros");
+  alert("Servicios:\n\n• Desarrollo web\n• Móvil\n• ChatBots\n• Inteligencia Artificial\n• Automatización de Procesos\n• Digitalización\n• Otros");
 }
 
 /* Función para agregar contacto - Compatible con móviles */
@@ -32,7 +32,7 @@ ORG:Cloud Tech Consulting;
 TITLE:Software Engineer;
 TEL;TYPE=CELL:787-538-6046
 EMAIL:contact@cloudtechcs.com
-URL:https://erickbarbosa.github.io/
+URL:https://HATechnologiesPR.github.io/CloudTechConsulting
 NOTE: Desarrollo web, Móvil, ChatBots, Inteligencia Artificial, Automatización de Procesos, Digitalización, entre otros.
 END:VCARD`;
 

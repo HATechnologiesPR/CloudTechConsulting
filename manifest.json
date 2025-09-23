@@ -1,21 +1,21 @@
 {
-    "name": "Carlos Roldán Soto Card",
-    "short_name": "CarlosRoldan",
+    "name": "Erick J. Barbosa Cruz Card",
+    "short_name": "ErickBarbosa",
     "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#333333",
     "theme_color": "#333333",
-    "description": "Business card page for Carlos Roldán Soto.",
+    "description": "Business card page for Erick J. Barbosa Cruz.",
     "icons": [
         {
-            "src": "images/Logo.jpg",
+            "src": "images/Logo.png",
             "sizes": "192x192",
-            "type": "image/jpeg"
+            "type": "image/png"
         },
         {
-            "src": "images/Logo.jpg",
+            "src": "images/Logo.png",
             "sizes": "512x512",
-            "type": "image/jpeg"
+            "type": "image/png"
         }
     ]
 }
