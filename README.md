@@ -116,7 +116,7 @@ Este proyecto es propiedad intelectual de HA Technologies. El código fuente est
 - ❌ **Redistribución**: No se permite la redistribución sin autorización expresa
 - ❌ **Uso comercial no autorizado**: Prohibido el uso para reventa o creación de productos derivados sin licencia
 
-Para solicitar permisos adicionales o licencias comerciales, contacta a [HA Technologies](https://ha-technologies-pr.vercel.app).
+Para solicitar permisos adicionales o licencias comerciales, contacta a [HA Technologies](https://hatechnologiespr.com).
 
 ---
 **Nota**: Este README y el proyecto están protegidos por derechos de autor. El uso no autorizado puede resultar en acciones legales.
