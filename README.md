@@ -101,7 +101,7 @@ Para adaptar la tarjeta a tu negocio, edita los siguientes elementos:
 
 ## 🌐 Créditos
 
-Desarrollado por [HA Technologies](https://ha-technologies-pr.vercel.app)
+Desarrollado por [HA Technologies](https://hatechnologiespr.com)
 
 ## 📄 Copyright y Licencia
 
